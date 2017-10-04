@@ -1,0 +1,3 @@
+export class Album {
+  constructor (public firstName: string, public lastName: string, public streetAddress: string,) { }
+}
